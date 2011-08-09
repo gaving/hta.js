@@ -1,5 +1,5 @@
 /**
- * Hth.js - Security measures for an HTA environment
+ * Hta.js - Security measures for an HTA environment
  *
  */
 (function(h) {
